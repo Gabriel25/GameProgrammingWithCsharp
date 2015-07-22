@@ -1,0 +1,9 @@
+C:\Users\ΓΑΒΡΙΗΛ\Documents\Visual Studio 2010\Projects\GameProgrammingCourse\Week2\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\teddyBear.xnb
+C:\Users\ΓΑΒΡΙΗΛ\Documents\Visual Studio 2010\Projects\GameProgrammingCourse\Week2\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\teddyBear1.xnb
+C:\Users\ΓΑΒΡΙΗΛ\Documents\Visual Studio 2010\Projects\GameProgrammingCourse\Week2\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\teddybear2.xnb
+C:\Users\ΓΑΒΡΙΗΛ\Documents\Visual Studio 2010\Projects\GameProgrammingCourse\Week2\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\ProgrammingAssignment2.exe
+C:\Users\ΓΑΒΡΙΗΛ\Documents\Visual Studio 2010\Projects\GameProgrammingCourse\Week2\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\ProgrammingAssignment2.pdb
+C:\Users\ΓΑΒΡΙΗΛ\Documents\Visual Studio 2010\Projects\GameProgrammingCourse\Week2\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.csprojResolveAssemblyReference.cache
+C:\Users\ΓΑΒΡΙΗΛ\Documents\Visual Studio 2010\Projects\GameProgrammingCourse\Week2\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ΓΑΒΡΙΗΛ\Documents\Visual Studio 2010\Projects\GameProgrammingCourse\Week2\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.exe
+C:\Users\ΓΑΒΡΙΗΛ\Documents\Visual Studio 2010\Projects\GameProgrammingCourse\Week2\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.pdb
